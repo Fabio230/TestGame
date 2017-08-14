@@ -1,0 +1,4443 @@
+fileFormatVersion: 2
+guid: 5349a80b74bda2844a7211d0a20c0fdd
+timeCreated: 1493751768
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GSlime Idle1
+    21300002: GSlime Idle2
+    21300004: GSlime Idle3
+    21300006: GSlime Idle4
+    21300008: GSlime Idle5
+    21300010: GSlime Idle6
+    21300012: GSlime Idle7
+    21300014: GSlime Idle8
+    21300016: GSlime Idle9
+    21300018: GSlime Idle 10
+    21300020: GSlime Walk1
+    21300022: GSlime Walk2
+    21300024: GSlime Walk3
+    21300026: GSlime Walk4
+    21300028: GSlime Walk5
+    21300030: GSlime Walk6
+    21300032: GSlime Walk7
+    21300034: GSlime Walk8
+    21300036: GSlime Walk9
+    21300038: GSlime Walk10
+    21300040: GSlime Jump1
+    21300042: GSlime Jump2
+    21300044: GSlime Jump3
+    21300046: GSlime Jump4
+    21300048: GSlime Jump5
+    21300050: GSlime Jump6
+    21300052: GSlime Jump7
+    21300054: GSlime Jump8
+    21300056: GSlime Jump9
+    21300058: GSlime Jump10
+    21300060: GSlime Attack1
+    21300062: GSlime Attack2
+    21300064: GSlime Attack3
+    21300066: GSlime Attack4
+    21300068: GSlime Attack5
+    21300070: GSlime Attack6
+    21300072: GSlime Attack7
+    21300074: GSlime Attack8
+    21300076: GSlime Attack9
+    21300078: GSlime Attack10
+    21300080: GSlime Death1
+    21300082: GSlime Death2
+    21300084: GSlime Death3
+    21300086: GSlime Death4
+    21300088: GSlime Death5
+    21300090: GSlime Death6
+    21300092: GSlime Death7
+    21300094: GSlime Death8
+    21300096: GSlime Death9
+    21300098: slime spritesheet calciumtrice_49
+    21300100: slime spritesheet calciumtrice_50
+    21300102: slime spritesheet calciumtrice_51
+    21300104: slime spritesheet calciumtrice_52
+    21300106: slime spritesheet calciumtrice_53
+    21300108: slime spritesheet calciumtrice_54
+    21300110: slime spritesheet calciumtrice_55
+    21300112: slime spritesheet calciumtrice_56
+    21300114: slime spritesheet calciumtrice_57
+    21300116: slime spritesheet calciumtrice_58
+    21300118: slime spritesheet calciumtrice_59
+    21300120: slime spritesheet calciumtrice_60
+    21300122: slime spritesheet calciumtrice_61
+    21300124: slime spritesheet calciumtrice_62
+    21300126: slime spritesheet calciumtrice_63
+    21300128: slime spritesheet calciumtrice_64
+    21300130: slime spritesheet calciumtrice_65
+    21300132: slime spritesheet calciumtrice_66
+    21300134: slime spritesheet calciumtrice_67
+    21300136: slime spritesheet calciumtrice_68
+    21300138: slime spritesheet calciumtrice_69
+    21300140: slime spritesheet calciumtrice_70
+    21300142: slime spritesheet calciumtrice_71
+    21300144: slime spritesheet calciumtrice_72
+    21300146: slime spritesheet calciumtrice_73
+    21300148: slime spritesheet calciumtrice_74
+    21300150: slime spritesheet calciumtrice_75
+    21300152: slime spritesheet calciumtrice_76
+    21300154: slime spritesheet calciumtrice_77
+    21300156: slime spritesheet calciumtrice_78
+    21300158: slime spritesheet calciumtrice_79
+    21300160: slime spritesheet calciumtrice_80
+    21300162: slime spritesheet calciumtrice_81
+    21300164: slime spritesheet calciumtrice_82
+    21300166: slime spritesheet calciumtrice_83
+    21300168: slime spritesheet calciumtrice_84
+    21300170: slime spritesheet calciumtrice_85
+    21300172: slime spritesheet calciumtrice_86
+    21300174: slime spritesheet calciumtrice_87
+    21300176: slime spritesheet calciumtrice_88
+    21300178: slime spritesheet calciumtrice_89
+    21300180: slime spritesheet calciumtrice_90
+    21300182: slime spritesheet calciumtrice_91
+    21300184: slime spritesheet calciumtrice_92
+    21300186: slime spritesheet calciumtrice_93
+    21300188: slime spritesheet calciumtrice_94
+    21300190: slime spritesheet calciumtrice_95
+    21300192: slime spritesheet calciumtrice_96
+    21300194: slime spritesheet calciumtrice_97
+    21300196: slime spritesheet calciumtrice_98
+    21300198: slime spritesheet calciumtrice_99
+    21300200: slime spritesheet calciumtrice_100
+    21300202: slime spritesheet calciumtrice_101
+    21300204: slime spritesheet calciumtrice_102
+    21300206: slime spritesheet calciumtrice_103
+    21300208: slime spritesheet calciumtrice_104
+    21300210: slime spritesheet calciumtrice_105
+    21300212: slime spritesheet calciumtrice_106
+    21300214: slime spritesheet calciumtrice_107
+    21300216: slime spritesheet calciumtrice_108
+    21300218: slime spritesheet calciumtrice_109
+    21300220: slime spritesheet calciumtrice_110
+    21300222: slime spritesheet calciumtrice_111
+    21300224: slime spritesheet calciumtrice_112
+    21300226: slime spritesheet calciumtrice_113
+    21300228: slime spritesheet calciumtrice_114
+    21300230: slime spritesheet calciumtrice_115
+    21300232: slime spritesheet calciumtrice_116
+    21300234: slime spritesheet calciumtrice_117
+    21300236: slime spritesheet calciumtrice_118
+    21300238: slime spritesheet calciumtrice_119
+    21300240: slime spritesheet calciumtrice_120
+    21300242: slime spritesheet calciumtrice_121
+    21300244: slime spritesheet calciumtrice_122
+    21300246: slime spritesheet calciumtrice_123
+    21300248: slime spritesheet calciumtrice_124
+    21300250: slime spritesheet calciumtrice_125
+    21300252: slime spritesheet calciumtrice_126
+    21300254: slime spritesheet calciumtrice_127
+    21300256: slime spritesheet calciumtrice_128
+    21300258: slime spritesheet calciumtrice_129
+    21300260: slime spritesheet calciumtrice_130
+    21300262: slime spritesheet calciumtrice_131
+    21300264: slime spritesheet calciumtrice_132
+    21300266: slime spritesheet calciumtrice_133
+    21300268: slime spritesheet calciumtrice_134
+    21300270: slime spritesheet calciumtrice_135
+    21300272: slime spritesheet calciumtrice_136
+    21300274: slime spritesheet calciumtrice_137
+    21300276: slime spritesheet calciumtrice_138
+    21300278: slime spritesheet calciumtrice_139
+    21300280: slime spritesheet calciumtrice_140
+    21300282: slime spritesheet calciumtrice_141
+    21300284: slime spritesheet calciumtrice_142
+    21300286: slime spritesheet calciumtrice_143
+    21300288: slime spritesheet calciumtrice_144
+    21300290: slime spritesheet calciumtrice_145
+    21300292: slime spritesheet calciumtrice_146
+    21300294: slime spritesheet calciumtrice_147
+    21300296: slime spritesheet calciumtrice_148
+    21300298: slime spritesheet calciumtrice_149
+    21300300: slime spritesheet calciumtrice_150
+    21300302: slime spritesheet calciumtrice_151
+    21300304: slime spritesheet calciumtrice_152
+    21300306: slime spritesheet calciumtrice_153
+    21300308: slime spritesheet calciumtrice_154
+    21300310: slime spritesheet calciumtrice_155
+    21300312: slime spritesheet calciumtrice_156
+    21300314: slime spritesheet calciumtrice_157
+    21300316: slime spritesheet calciumtrice_158
+    21300318: slime spritesheet calciumtrice_159
+    21300320: slime spritesheet calciumtrice_160
+    21300322: slime spritesheet calciumtrice_161
+    21300324: slime spritesheet calciumtrice_162
+    21300326: slime spritesheet calciumtrice_163
+    21300328: slime spritesheet calciumtrice_164
+    21300330: slime spritesheet calciumtrice_165
+    21300332: slime spritesheet calciumtrice_166
+    21300334: slime spritesheet calciumtrice_167
+    21300336: slime spritesheet calciumtrice_168
+    21300338: slime spritesheet calciumtrice_169
+    21300340: slime spritesheet calciumtrice_170
+    21300342: slime spritesheet calciumtrice_171
+    21300344: slime spritesheet calciumtrice_172
+    21300346: slime spritesheet calciumtrice_173
+    21300348: slime spritesheet calciumtrice_174
+    21300350: slime spritesheet calciumtrice_175
+    21300352: slime spritesheet calciumtrice_176
+    21300354: slime spritesheet calciumtrice_177
+    21300356: slime spritesheet calciumtrice_178
+    21300358: slime spritesheet calciumtrice_179
+    21300360: slime spritesheet calciumtrice_180
+    21300362: slime spritesheet calciumtrice_181
+    21300364: slime spritesheet calciumtrice_182
+    21300366: slime spritesheet calciumtrice_183
+    21300368: slime spritesheet calciumtrice_184
+    21300370: slime spritesheet calciumtrice_185
+    21300372: slime spritesheet calciumtrice_186
+    21300374: slime spritesheet calciumtrice_187
+    21300376: slime spritesheet calciumtrice_188
+    21300378: slime spritesheet calciumtrice_189
+    21300380: slime spritesheet calciumtrice_190
+    21300382: slime spritesheet calciumtrice_191
+    21300384: slime spritesheet calciumtrice_192
+    21300386: slime spritesheet calciumtrice_193
+    21300388: slime spritesheet calciumtrice_194
+    21300390: slime spritesheet calciumtrice_195
+    21300392: GSlime Death10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 3
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GSlime Idle1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Idle2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Idle3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Idle4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Idle5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Idle6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Idle7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Idle8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Idle9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Idle 10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 608
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 576
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 576
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 576
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 576
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 576
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 576
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 576
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 576
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 576
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Walk10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 576
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 544
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 544
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 546
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 548
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 548
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 547
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 545
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 544
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 544
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Jump10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 544
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 512
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 512
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 512
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 512
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 512
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 512
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 512
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 512
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 512
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Attack10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 512
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 480
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 480
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 480
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 480
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 480
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 480
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 480
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 480
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 480
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 12, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_56
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_57
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_58
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 448
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 416
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 416
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 416
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 416
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 416
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_64
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 416
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 416
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_66
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 416
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_67
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 416
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_68
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 416
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 384
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 384
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 386
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 388
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 388
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 387
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_75
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 385
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_76
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 384
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 384
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 384
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 352
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 352
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 352
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 352
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_83
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 352
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_84
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 352
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 352
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_86
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 352
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_87
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 352
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 352
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_89
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 320
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 320
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_91
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 320
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_93
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 320
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_94
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 320
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_95
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 320
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_96
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 320
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_97
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 320
+        width: 45
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_99
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_102
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_103
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_104
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_105
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_107
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 288
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_109
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 256
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_110
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 256
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_111
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 256
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_112
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 256
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_113
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 256
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_114
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 256
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_115
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 256
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_116
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 256
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_117
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 256
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_118
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 224
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_119
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 224
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 226
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_121
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 228
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_122
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 228
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_123
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 227
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_124
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 225
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 224
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_126
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 224
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_127
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 224
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_128
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_129
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_130
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 192
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_131
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 192
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_132
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_133
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 192
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_135
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 192
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_136
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_137
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 192
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_139
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_140
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_141
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_142
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 160
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_143
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_144
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 160
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_145
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 160
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_146
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 160
+        width: 45
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_147
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_148
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_149
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_150
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_151
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_152
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_153
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_154
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_155
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_156
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_157
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_158
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_159
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_160
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_161
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_162
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_163
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_164
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_165
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 96
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_166
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 96
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_167
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 64
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_168
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_169
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_170
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 68
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_171
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 68
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_172
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 67
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_173
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 65
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_174
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 64
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_175
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 64
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_176
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 64
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_177
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_178
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_179
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_180
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_181
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_182
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 32
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_183
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_184
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_185
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 32
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_186
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 32
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_187
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_188
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_189
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_190
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_191
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_192
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_193
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_194
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime spritesheet calciumtrice_195
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 45
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GSlime Death10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 480
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -152, y: -320}
+      - {x: -136, y: -320}
+      - {x: -136, y: -314}
+      - {x: -139, y: -308}
+      - {x: -146, y: -308}
+      - {x: -152, y: -313}
+    - - {x: -108, y: -308}
+      - {x: -118, y: -308}
+      - {x: -120, y: -310}
+      - {x: -120, y: -318}
+      - {x: -119, y: -320}
+      - {x: -106, y: -320}
+      - {x: -104, y: -318}
+      - {x: -104, y: -311}
+    - - {x: -84, y: -308}
+      - {x: -88, y: -311}
+      - {x: -88, y: -319}
+      - {x: -87, y: -320}
+      - {x: -73, y: -320}
+      - {x: -72, y: -319}
+      - {x: -72, y: -311}
+      - {x: -75, y: -308}
+    - - {x: -51, y: -309}
+      - {x: -56, y: -312}
+      - {x: -56, y: -318}
+      - {x: -55, y: -320}
+      - {x: -42, y: -320}
+      - {x: -40, y: -318}
+      - {x: -40, y: -314}
+      - {x: -45, y: -308}
+    - - {x: -22, y: -310}
+      - {x: -24, y: -311}
+      - {x: -24, y: -319}
+      - {x: -23, y: -320}
+      - {x: -9, y: -320}
+      - {x: -8, y: -319}
+      - {x: -8, y: -311}
+      - {x: -10, y: -310}
+    - - {x: 9, y: -311}
+      - {x: 8, y: -314}
+      - {x: 8, y: -320}
+      - {x: 23, y: -320}
+      - {x: 24, y: -319}
+      - {x: 24, y: -312}
+      - {x: 23, y: -311}
+    - - {x: 41, y: -312}
+      - {x: 40, y: -313}
+      - {x: 40, y: -319}
+      - {x: 41, y: -320}
+      - {x: 55, y: -320}
+      - {x: 56, y: -319}
+      - {x: 56, y: -313}
+      - {x: 55, y: -312}
+    - - {x: 72, y: -320}
+      - {x: 88, y: -320}
+      - {x: 88, y: -315}
+      - {x: 87, y: -313}
+      - {x: 73, y: -313}
+      - {x: 72, y: -315}
+    - - {x: 104, y: -318}
+      - {x: 104, y: -320}
+      - {x: 120, y: -320}
+      - {x: 120, y: -318}
+      - {x: 117, y: -314}
+      - {x: 106, y: -314}
+    - - {x: 135, y: -318}
+      - {x: 135, y: -320}
+      - {x: 153, y: -320}
+      - {x: 153, y: -319}
+      - {x: 149, y: -316}
+      - {x: 140, y: -316}
+    - - {x: -148, y: -276}
+      - {x: -152, y: -279}
+      - {x: -152, y: -287}
+      - {x: -150, y: -290}
+      - {x: -140, y: -290}
+      - {x: -136, y: -288}
+      - {x: -136, y: -282}
+      - {x: -138, y: -276}
+    - - {x: -108, y: -276}
+      - {x: -118, y: -276}
+      - {x: -120, y: -278}
+      - {x: -120, y: -286}
+      - {x: -118, y: -290}
+      - {x: -108, y: -290}
+      - {x: -104, y: -286}
+      - {x: -104, y: -279}
+    - - {x: -84, y: -275}
+      - {x: -88, y: -279}
+      - {x: -88, y: -285}
+      - {x: -86, y: -290}
+      - {x: -75, y: -290}
+      - {x: -72, y: -287}
+      - {x: -72, y: -282}
+      - {x: -75, y: -275}
+    - - {x: -52, y: -275}
+      - {x: -56, y: -278}
+      - {x: -56, y: -287}
+      - {x: -55, y: -290}
+      - {x: -44, y: -290}
+      - {x: -40, y: -288}
+      - {x: -40, y: -281}
+      - {x: -42, y: -275}
+    - - {x: -22, y: -275}
+      - {x: -24, y: -279}
+      - {x: -24, y: -289}
+      - {x: -21, y: -290}
+      - {x: -9, y: -290}
+      - {x: -8, y: -289}
+      - {x: -8, y: -280}
+      - {x: -10, y: -275}
+    - - {x: 7, y: -275}
+      - {x: 7, y: -284}
+      - {x: 10, y: -290}
+      - {x: 23, y: -290}
+      - {x: 24, y: -287}
+      - {x: 24, y: -278}
+      - {x: 21, y: -275}
+    - - {x: 47, y: -273}
+      - {x: 38, y: -273}
+      - {x: 38, y: -288}
+      - {x: 44, y: -290}
+      - {x: 55, y: -290}
+      - {x: 56, y: -288}
+      - {x: 56, y: -278}
+      - {x: 52, y: -274}
+    - - {x: 79, y: -271}
+      - {x: 68, y: -271}
+      - {x: 64, y: -273}
+      - {x: 64, y: -284}
+      - {x: 75, y: -290}
+      - {x: 88, y: -290}
+      - {x: 88, y: -282}
+      - {x: 85, y: -274}
+    - - {x: 106, y: -276}
+      - {x: 103, y: -279}
+      - {x: 103, y: -289}
+      - {x: 107, y: -290}
+      - {x: 120, y: -290}
+      - {x: 120, y: -282}
+      - {x: 118, y: -276}
+    - - {x: 140, y: -276}
+      - {x: 136, y: -279}
+      - {x: 136, y: -287}
+      - {x: 138, y: -290}
+      - {x: 148, y: -290}
+      - {x: 152, y: -288}
+      - {x: 152, y: -282}
+      - {x: 150, y: -276}
+    - - {x: 95, y: -275}
+      - {x: 97, y: -278}
+      - {x: 102, y: -278}
+      - {x: 105, y: -276}
+      - {x: 104, y: -273}
+      - {x: 99, y: -272}
+    - - {x: -148, y: -244}
+      - {x: -152, y: -247}
+      - {x: -152, y: -255}
+      - {x: -150, y: -258}
+      - {x: -140, y: -258}
+      - {x: -136, y: -256}
+      - {x: -136, y: -250}
+      - {x: -138, y: -244}
+    - - {x: -113, y: -244}
+      - {x: -120, y: -247}
+      - {x: -120, y: -257}
+      - {x: -117, y: -258}
+      - {x: -104, y: -258}
+      - {x: -104, y: -247}
+      - {x: -106, y: -244}
+    - - {x: 73, y: -246}
+      - {x: 72, y: -247}
+      - {x: 72, y: -256}
+      - {x: 73, y: -258}
+      - {x: 87, y: -258}
+      - {x: 88, y: -257}
+      - {x: 88, y: -247}
+      - {x: 85, y: -246}
+    - - {x: 103, y: -258}
+      - {x: 121, y: -258}
+      - {x: 121, y: -249}
+      - {x: 120, y: -247}
+      - {x: 105, y: -247}
+      - {x: 103, y: -252}
+    - - {x: 141, y: -245}
+      - {x: 136, y: -250}
+      - {x: 136, y: -254}
+      - {x: 140, y: -258}
+      - {x: 148, y: -258}
+      - {x: 152, y: -254}
+      - {x: 152, y: -250}
+      - {x: 147, y: -245}
+    - - {x: 45, y: -243}
+      - {x: 40, y: -246}
+      - {x: 40, y: -254}
+      - {x: 41, y: -257}
+      - {x: 54, y: -257}
+      - {x: 56, y: -252}
+      - {x: 56, y: -248}
+      - {x: 51, y: -242}
+    - - {x: -83, y: -242}
+      - {x: -88, y: -247}
+      - {x: -88, y: -251}
+      - {x: -83, y: -256}
+      - {x: -77, y: -256}
+      - {x: -72, y: -251}
+      - {x: -72, y: -247}
+      - {x: -77, y: -242}
+    - - {x: 13, y: -241}
+      - {x: 8, y: -244}
+      - {x: 8, y: -250}
+      - {x: 10, y: -255}
+      - {x: 22, y: -255}
+      - {x: 24, y: -251}
+      - {x: 24, y: -243}
+      - {x: 21, y: -241}
+    - - {x: -41, y: -243}
+      - {x: -45, y: -240}
+      - {x: -51, y: -240}
+      - {x: -56, y: -245}
+      - {x: -56, y: -249}
+      - {x: -55, y: -254}
+      - {x: -43, y: -254}
+      - {x: -40, y: -251}
+      - {x: -40, y: -246}
+    - - {x: -19, y: -239}
+      - {x: -23, y: -240}
+      - {x: -23, y: -251}
+      - {x: -22, y: -254}
+      - {x: -10, y: -254}
+      - {x: -9, y: -250}
+      - {x: -9, y: -240}
+      - {x: -13, y: -239}
+    - - {x: -150, y: -212}
+      - {x: -152, y: -218}
+      - {x: -152, y: -224}
+      - {x: -148, y: -226}
+      - {x: -140, y: -226}
+      - {x: -136, y: -224}
+      - {x: -136, y: -217}
+      - {x: -138, y: -212}
+    - - {x: -117, y: -213}
+      - {x: -119, y: -215}
+      - {x: -120, y: -218}
+      - {x: -120, y: -223}
+      - {x: -116, y: -226}
+      - {x: -108, y: -226}
+      - {x: -104, y: -223}
+      - {x: -104, y: -218}
+      - {x: -105, y: -213}
+    - - {x: -75, y: -213}
+      - {x: -86, y: -213}
+      - {x: -88, y: -217}
+      - {x: -88, y: -222}
+      - {x: -84, y: -226}
+      - {x: -76, y: -226}
+      - {x: -72, y: -222}
+      - {x: -72, y: -214}
+    - - {x: -43, y: -213}
+      - {x: -54, y: -213}
+      - {x: -56, y: -217}
+      - {x: -56, y: -222}
+      - {x: -52, y: -226}
+      - {x: -44, y: -226}
+      - {x: -40, y: -222}
+      - {x: -40, y: -214}
+    - - {x: -20, y: -213}
+      - {x: -24, y: -217}
+      - {x: -24, y: -222}
+      - {x: -22, y: -226}
+      - {x: -11, y: -226}
+      - {x: -8, y: -224}
+      - {x: -8, y: -216}
+      - {x: -9, y: -213}
+    - - {x: 12, y: -213}
+      - {x: 8, y: -217}
+      - {x: 8, y: -222}
+      - {x: 10, y: -226}
+      - {x: 21, y: -226}
+      - {x: 24, y: -224}
+      - {x: 24, y: -216}
+      - {x: 23, y: -213}
+    - - {x: 44, y: -213}
+      - {x: 40, y: -217}
+      - {x: 40, y: -222}
+      - {x: 42, y: -226}
+      - {x: 53, y: -226}
+      - {x: 56, y: -224}
+      - {x: 56, y: -216}
+      - {x: 55, y: -213}
+    - - {x: 76, y: -213}
+      - {x: 72, y: -217}
+      - {x: 72, y: -225}
+      - {x: 75, y: -226}
+      - {x: 86, y: -226}
+      - {x: 88, y: -222}
+      - {x: 88, y: -217}
+      - {x: 84, y: -213}
+    - - {x: 106, y: -212}
+      - {x: 104, y: -217}
+      - {x: 104, y: -225}
+      - {x: 105, y: -226}
+      - {x: 115, y: -226}
+      - {x: 120, y: -224}
+      - {x: 120, y: -217}
+      - {x: 116, y: -212}
+    - - {x: 136, y: -223}
+      - {x: 139, y: -226}
+      - {x: 147, y: -226}
+      - {x: 152, y: -225}
+      - {x: 152, y: -216}
+      - {x: 151, y: -212}
+      - {x: 141, y: -212}
+      - {x: 136, y: -216}
+    - - {x: -140, y: -180}
+      - {x: -150, y: -180}
+      - {x: -152, y: -182}
+      - {x: -152, y: -190}
+      - {x: -150, y: -194}
+      - {x: -140, y: -194}
+      - {x: -136, y: -190}
+      - {x: -136, y: -183}
+    - - {x: -115, y: -180}
+      - {x: -120, y: -183}
+      - {x: -120, y: -191}
+      - {x: -118, y: -194}
+      - {x: -106, y: -194}
+      - {x: -104, y: -190}
+      - {x: -104, y: -183}
+      - {x: -108, y: -180}
+    - - {x: -83, y: -180}
+      - {x: -88, y: -184}
+      - {x: -88, y: -191}
+      - {x: -86, y: -194}
+      - {x: -73, y: -194}
+      - {x: -72, y: -191}
+      - {x: -72, y: -184}
+      - {x: -77, y: -180}
+    - - {x: -51, y: -180}
+      - {x: -56, y: -184}
+      - {x: -56, y: -191}
+      - {x: -54, y: -194}
+      - {x: -41, y: -194}
+      - {x: -40, y: -191}
+      - {x: -40, y: -184}
+      - {x: -45, y: -180}
+    - - {x: -16, y: -180}
+      - {x: -21, y: -182}
+      - {x: -24, y: -185}
+      - {x: -24, y: -191}
+      - {x: -23, y: -194}
+      - {x: -9, y: -194}
+      - {x: -8, y: -191}
+      - {x: -8, y: -184}
+      - {x: -13, y: -180}
+    - - {x: 10, y: -180}
+      - {x: 8, y: -182}
+      - {x: 8, y: -190}
+      - {x: 10, y: -194}
+      - {x: 22, y: -194}
+      - {x: 24, y: -190}
+      - {x: 24, y: -182}
+      - {x: 20, y: -180}
+    - - {x: 42, y: -180}
+      - {x: 40, y: -182}
+      - {x: 40, y: -190}
+      - {x: 42, y: -194}
+      - {x: 54, y: -194}
+      - {x: 56, y: -190}
+      - {x: 56, y: -182}
+      - {x: 52, y: -180}
+    - - {x: 74, y: -180}
+      - {x: 72, y: -182}
+      - {x: 72, y: -190}
+      - {x: 74, y: -194}
+      - {x: 86, y: -194}
+      - {x: 88, y: -190}
+      - {x: 88, y: -182}
+      - {x: 84, y: -180}
+    - - {x: 108, y: -180}
+      - {x: 104, y: -183}
+      - {x: 104, y: -191}
+      - {x: 105, y: -194}
+      - {x: 118, y: -194}
+      - {x: 120, y: -191}
+      - {x: 120, y: -183}
+      - {x: 117, y: -180}
+    - - {x: 140, y: -180}
+      - {x: 136, y: -183}
+      - {x: 136, y: -191}
+      - {x: 137, y: -194}
+      - {x: 150, y: -194}
+      - {x: 152, y: -191}
+      - {x: 152, y: -183}
+      - {x: 149, y: -180}
+    - - {x: -140, y: -148}
+      - {x: -150, y: -148}
+      - {x: -152, y: -150}
+      - {x: -152, y: -158}
+      - {x: -150, y: -162}
+      - {x: -140, y: -162}
+      - {x: -136, y: -158}
+      - {x: -136, y: -151}
+    - - {x: -108, y: -148}
+      - {x: -118, y: -148}
+      - {x: -120, y: -150}
+      - {x: -120, y: -158}
+      - {x: -118, y: -162}
+      - {x: -108, y: -162}
+      - {x: -104, y: -158}
+      - {x: -104, y: -151}
+    - - {x: -86, y: -148}
+      - {x: -88, y: -150}
+      - {x: -88, y: -158}
+      - {x: -86, y: -162}
+      - {x: -74, y: -162}
+      - {x: -72, y: -158}
+      - {x: -72, y: -150}
+      - {x: -76, y: -148}
+    - - {x: -51, y: -149}
+      - {x: -56, y: -151}
+      - {x: -56, y: -158}
+      - {x: -54, y: -162}
+      - {x: -44, y: -162}
+      - {x: -40, y: -158}
+      - {x: -40, y: -154}
+      - {x: -45, y: -148}
+    - - {x: -21, y: -150}
+      - {x: -24, y: -154}
+      - {x: -24, y: -158}
+      - {x: -20, y: -162}
+      - {x: -12, y: -162}
+      - {x: -8, y: -158}
+      - {x: -8, y: -154}
+      - {x: -11, y: -150}
+    - - {x: 8, y: -151}
+      - {x: 8, y: -161}
+      - {x: 12, y: -162}
+      - {x: 23, y: -162}
+      - {x: 24, y: -161}
+      - {x: 24, y: -154}
+      - {x: 23, y: -151}
+    - - {x: 40, y: -152}
+      - {x: 40, y: -161}
+      - {x: 44, y: -162}
+      - {x: 55, y: -162}
+      - {x: 56, y: -161}
+      - {x: 56, y: -155}
+      - {x: 55, y: -152}
+    - - {x: 73, y: -153}
+      - {x: 72, y: -156}
+      - {x: 72, y: -159}
+      - {x: 75, y: -162}
+      - {x: 85, y: -162}
+      - {x: 88, y: -159}
+      - {x: 88, y: -156}
+      - {x: 87, y: -153}
+    - - {x: 104, y: -162}
+      - {x: 120, y: -162}
+      - {x: 120, y: -157}
+      - {x: 119, y: -154}
+      - {x: 105, y: -154}
+      - {x: 104, y: -158}
+    - - {x: 149, y: -156}
+      - {x: 137, y: -156}
+      - {x: 135, y: -159}
+      - {x: 136, y: -162}
+      - {x: 151, y: -162}
+      - {x: 153, y: -160}
+      - {x: 153, y: -157}
+    - - {x: -140, y: -116}
+      - {x: -150, y: -116}
+      - {x: -152, y: -118}
+      - {x: -152, y: -126}
+      - {x: -150, y: -130}
+      - {x: -140, y: -130}
+      - {x: -136, y: -126}
+      - {x: -136, y: -119}
+    - - {x: -108, y: -116}
+      - {x: -118, y: -116}
+      - {x: -120, y: -118}
+      - {x: -120, y: -126}
+      - {x: -118, y: -130}
+      - {x: -108, y: -130}
+      - {x: -104, y: -126}
+      - {x: -104, y: -119}
+    - - {x: -84, y: -115}
+      - {x: -88, y: -119}
+      - {x: -88, y: -125}
+      - {x: -86, y: -130}
+      - {x: -73, y: -130}
+      - {x: -72, y: -127}
+      - {x: -72, y: -118}
+      - {x: -76, y: -115}
+    - - {x: -51, y: -115}
+      - {x: -56, y: -118}
+      - {x: -56, y: -127}
+      - {x: -55, y: -130}
+      - {x: -41, y: -130}
+      - {x: -40, y: -126}
+      - {x: -40, y: -118}
+      - {x: -44, y: -115}
+    - - {x: -21, y: -115}
+      - {x: -24, y: -117}
+      - {x: -24, y: -127}
+      - {x: -23, y: -130}
+      - {x: -9, y: -130}
+      - {x: -8, y: -128}
+      - {x: -8, y: -117}
+      - {x: -13, y: -115}
+    - - {x: 7, y: -115}
+      - {x: 7, y: -127}
+      - {x: 12, y: -130}
+      - {x: 23, y: -130}
+      - {x: 24, y: -127}
+      - {x: 24, y: -118}
+      - {x: 21, y: -115}
+    - - {x: 47, y: -113}
+      - {x: 38, y: -113}
+      - {x: 38, y: -128}
+      - {x: 44, y: -130}
+      - {x: 55, y: -130}
+      - {x: 56, y: -128}
+      - {x: 56, y: -118}
+      - {x: 52, y: -114}
+    - - {x: 71, y: -111}
+      - {x: 67, y: -111}
+      - {x: 64, y: -116}
+      - {x: 64, y: -120}
+      - {x: 75, y: -130}
+      - {x: 87, y: -130}
+      - {x: 88, y: -127}
+      - {x: 88, y: -118}
+      - {x: 84, y: -114}
+    - - {x: 105, y: -116}
+      - {x: 103, y: -117}
+      - {x: 103, y: -124}
+      - {x: 105, y: -130}
+      - {x: 118, y: -130}
+      - {x: 120, y: -127}
+      - {x: 120, y: -119}
+      - {x: 117, y: -116}
+    - - {x: 140, y: -116}
+      - {x: 136, y: -119}
+      - {x: 136, y: -127}
+      - {x: 137, y: -130}
+      - {x: 150, y: -130}
+      - {x: 152, y: -127}
+      - {x: 152, y: -119}
+      - {x: 149, y: -116}
+    - - {x: 95, y: -115}
+      - {x: 97, y: -118}
+      - {x: 102, y: -118}
+      - {x: 105, y: -116}
+      - {x: 104, y: -113}
+      - {x: 99, y: -112}
+    - - {x: -140, y: -84}
+      - {x: -150, y: -84}
+      - {x: -152, y: -86}
+      - {x: -152, y: -94}
+      - {x: -150, y: -98}
+      - {x: -140, y: -98}
+      - {x: -136, y: -94}
+      - {x: -136, y: -87}
+    - - {x: -113, y: -84}
+      - {x: -120, y: -87}
+      - {x: -120, y: -95}
+      - {x: -117, y: -98}
+      - {x: -107, y: -98}
+      - {x: -104, y: -95}
+      - {x: -104, y: -90}
+      - {x: -107, y: -84}
+    - - {x: 76, y: -86}
+      - {x: 72, y: -90}
+      - {x: 72, y: -95}
+      - {x: 75, y: -98}
+      - {x: 85, y: -98}
+      - {x: 88, y: -95}
+      - {x: 88, y: -90}
+      - {x: 84, y: -86}
+    - - {x: 105, y: -87}
+      - {x: 103, y: -91}
+      - {x: 103, y: -97}
+      - {x: 106, y: -98}
+      - {x: 120, y: -98}
+      - {x: 121, y: -97}
+      - {x: 121, y: -89}
+      - {x: 117, y: -87}
+    - - {x: 136, y: -94}
+      - {x: 137, y: -98}
+      - {x: 152, y: -98}
+      - {x: 152, y: -90}
+      - {x: 149, y: -85}
+      - {x: 141, y: -85}
+      - {x: 136, y: -88}
+    - - {x: 43, y: -82}
+      - {x: 40, y: -88}
+      - {x: 40, y: -95}
+      - {x: 44, y: -97}
+      - {x: 54, y: -97}
+      - {x: 56, y: -92}
+      - {x: 56, y: -86}
+      - {x: 51, y: -82}
+    - - {x: -83, y: -82}
+      - {x: -88, y: -87}
+      - {x: -88, y: -91}
+      - {x: -83, y: -96}
+      - {x: -77, y: -96}
+      - {x: -72, y: -91}
+      - {x: -72, y: -87}
+      - {x: -77, y: -82}
+    - - {x: 13, y: -81}
+      - {x: 9, y: -83}
+      - {x: 8, y: -86}
+      - {x: 8, y: -90}
+      - {x: 13, y: -95}
+      - {x: 21, y: -95}
+      - {x: 24, y: -90}
+      - {x: 24, y: -83}
+      - {x: 21, y: -81}
+    - - {x: -45, y: -80}
+      - {x: -54, y: -80}
+      - {x: -56, y: -84}
+      - {x: -56, y: -91}
+      - {x: -52, y: -94}
+      - {x: -45, y: -94}
+      - {x: -41, y: -92}
+      - {x: -40, y: -90}
+      - {x: -40, y: -82}
+    - - {x: -19, y: -79}
+      - {x: -23, y: -83}
+      - {x: -23, y: -90}
+      - {x: -19, y: -94}
+      - {x: -13, y: -94}
+      - {x: -9, y: -90}
+      - {x: -9, y: -83}
+      - {x: -13, y: -79}
+    - - {x: -152, y: -65}
+      - {x: -151, y: -66}
+      - {x: -140, y: -66}
+      - {x: -136, y: -65}
+      - {x: -136, y: -55}
+      - {x: -138, y: -52}
+      - {x: -150, y: -52}
+      - {x: -152, y: -58}
+    - - {x: -117, y: -53}
+      - {x: -119, y: -55}
+      - {x: -120, y: -58}
+      - {x: -120, y: -63}
+      - {x: -116, y: -66}
+      - {x: -108, y: -66}
+      - {x: -104, y: -63}
+      - {x: -104, y: -58}
+      - {x: -105, y: -53}
+    - - {x: -83, y: -53}
+      - {x: -88, y: -55}
+      - {x: -88, y: -62}
+      - {x: -87, y: -66}
+      - {x: -75, y: -66}
+      - {x: -72, y: -65}
+      - {x: -72, y: -56}
+      - {x: -74, y: -53}
+    - - {x: -51, y: -53}
+      - {x: -56, y: -55}
+      - {x: -56, y: -62}
+      - {x: -55, y: -66}
+      - {x: -43, y: -66}
+      - {x: -40, y: -65}
+      - {x: -40, y: -56}
+      - {x: -42, y: -53}
+    - - {x: -21, y: -53}
+      - {x: -24, y: -55}
+      - {x: -24, y: -63}
+      - {x: -23, y: -66}
+      - {x: -13, y: -66}
+      - {x: -8, y: -64}
+      - {x: -8, y: -57}
+      - {x: -9, y: -53}
+    - - {x: 11, y: -53}
+      - {x: 8, y: -55}
+      - {x: 8, y: -63}
+      - {x: 9, y: -66}
+      - {x: 19, y: -66}
+      - {x: 24, y: -64}
+      - {x: 24, y: -57}
+      - {x: 23, y: -53}
+    - - {x: 43, y: -53}
+      - {x: 40, y: -55}
+      - {x: 40, y: -63}
+      - {x: 41, y: -66}
+      - {x: 51, y: -66}
+      - {x: 56, y: -64}
+      - {x: 56, y: -57}
+      - {x: 55, y: -53}
+    - - {x: 73, y: -53}
+      - {x: 72, y: -57}
+      - {x: 72, y: -65}
+      - {x: 73, y: -66}
+      - {x: 83, y: -66}
+      - {x: 88, y: -64}
+      - {x: 88, y: -57}
+      - {x: 84, y: -53}
+    - - {x: 106, y: -52}
+      - {x: 104, y: -57}
+      - {x: 104, y: -65}
+      - {x: 105, y: -66}
+      - {x: 115, y: -66}
+      - {x: 120, y: -64}
+      - {x: 120, y: -57}
+      - {x: 116, y: -52}
+    - - {x: 136, y: -63}
+      - {x: 139, y: -66}
+      - {x: 147, y: -66}
+      - {x: 152, y: -65}
+      - {x: 152, y: -56}
+      - {x: 151, y: -52}
+      - {x: 141, y: -52}
+      - {x: 136, y: -56}
+    - - {x: -150, y: -20}
+      - {x: -152, y: -26}
+      - {x: -152, y: -32}
+      - {x: -148, y: -34}
+      - {x: -140, y: -34}
+      - {x: -136, y: -32}
+      - {x: -136, y: -25}
+      - {x: -138, y: -20}
+    - - {x: -118, y: -20}
+      - {x: -120, y: -26}
+      - {x: -120, y: -32}
+      - {x: -116, y: -34}
+      - {x: -108, y: -34}
+      - {x: -104, y: -32}
+      - {x: -104, y: -25}
+      - {x: -106, y: -20}
+    - - {x: -82, y: -20}
+      - {x: -88, y: -22}
+      - {x: -88, y: -33}
+      - {x: -87, y: -34}
+      - {x: -74, y: -34}
+      - {x: -72, y: -33}
+      - {x: -72, y: -25}
+      - {x: -75, y: -20}
+    - - {x: -50, y: -20}
+      - {x: -56, y: -22}
+      - {x: -56, y: -33}
+      - {x: -55, y: -34}
+      - {x: -42, y: -34}
+      - {x: -40, y: -33}
+      - {x: -40, y: -25}
+      - {x: -43, y: -20}
+    - - {x: -18, y: -20}
+      - {x: -24, y: -25}
+      - {x: -24, y: -32}
+      - {x: -23, y: -34}
+      - {x: -9, y: -34}
+      - {x: -8, y: -31}
+      - {x: -8, y: -24}
+      - {x: -13, y: -20}
+    - - {x: 10, y: -20}
+      - {x: 8, y: -26}
+      - {x: 8, y: -32}
+      - {x: 12, y: -34}
+      - {x: 20, y: -34}
+      - {x: 24, y: -32}
+      - {x: 24, y: -25}
+      - {x: 22, y: -20}
+    - - {x: 42, y: -20}
+      - {x: 40, y: -26}
+      - {x: 40, y: -32}
+      - {x: 44, y: -34}
+      - {x: 52, y: -34}
+      - {x: 56, y: -32}
+      - {x: 56, y: -25}
+      - {x: 54, y: -20}
+    - - {x: 74, y: -20}
+      - {x: 72, y: -26}
+      - {x: 72, y: -32}
+      - {x: 76, y: -34}
+      - {x: 84, y: -34}
+      - {x: 88, y: -32}
+      - {x: 88, y: -25}
+      - {x: 86, y: -20}
+    - - {x: 106, y: -20}
+      - {x: 104, y: -26}
+      - {x: 104, y: -32}
+      - {x: 108, y: -34}
+      - {x: 116, y: -34}
+      - {x: 120, y: -32}
+      - {x: 120, y: -25}
+      - {x: 118, y: -20}
+    - - {x: 138, y: -20}
+      - {x: 136, y: -26}
+      - {x: 136, y: -32}
+      - {x: 140, y: -34}
+      - {x: 148, y: -34}
+      - {x: 152, y: -32}
+      - {x: 152, y: -25}
+      - {x: 150, y: -20}
+    - - {x: -150, y: 12}
+      - {x: -152, y: 6}
+      - {x: -152, y: 0}
+      - {x: -148, y: -2}
+      - {x: -140, y: -2}
+      - {x: -136, y: 0}
+      - {x: -136, y: 7}
+      - {x: -138, y: 12}
+    - - {x: -118, y: 12}
+      - {x: -120, y: 6}
+      - {x: -120, y: 0}
+      - {x: -116, y: -2}
+      - {x: -108, y: -2}
+      - {x: -104, y: 0}
+      - {x: -104, y: 7}
+      - {x: -106, y: 12}
+    - - {x: -84, y: 12}
+      - {x: -88, y: 9}
+      - {x: -88, y: 1}
+      - {x: -86, y: -2}
+      - {x: -76, y: -2}
+      - {x: -72, y: 0}
+      - {x: -72, y: 6}
+      - {x: -74, y: 12}
+    - - {x: -51, y: 11}
+      - {x: -56, y: 9}
+      - {x: -56, y: 1}
+      - {x: -55, y: -2}
+      - {x: -42, y: -2}
+      - {x: -40, y: 2}
+      - {x: -40, y: 9}
+      - {x: -45, y: 12}
+    - - {x: -22, y: 10}
+      - {x: -24, y: 9}
+      - {x: -24, y: 1}
+      - {x: -23, y: -2}
+      - {x: -10, y: -2}
+      - {x: -8, y: 1}
+      - {x: -8, y: 9}
+      - {x: -10, y: 10}
+    - - {x: 8, y: 9}
+      - {x: 8, y: -1}
+      - {x: 12, y: -2}
+      - {x: 23, y: -2}
+      - {x: 24, y: -1}
+      - {x: 24, y: 6}
+      - {x: 23, y: 9}
+    - - {x: 40, y: 8}
+      - {x: 40, y: 1}
+      - {x: 42, y: -2}
+      - {x: 54, y: -2}
+      - {x: 56, y: 1}
+      - {x: 56, y: 8}
+    - - {x: 73, y: 7}
+      - {x: 72, y: 6}
+      - {x: 72, y: 0}
+      - {x: 73, y: -2}
+      - {x: 85, y: -2}
+      - {x: 88, y: -1}
+      - {x: 88, y: 4}
+      - {x: 87, y: 7}
+    - - {x: 105, y: 6}
+      - {x: 104, y: 2}
+      - {x: 104, y: -1}
+      - {x: 106, y: -2}
+      - {x: 119, y: -2}
+      - {x: 120, y: 0}
+      - {x: 120, y: 4}
+      - {x: 118, y: 6}
+    - - {x: 149, y: 4}
+      - {x: 137, y: 4}
+      - {x: 135, y: 1}
+      - {x: 136, y: -2}
+      - {x: 151, y: -2}
+      - {x: 153, y: 0}
+      - {x: 153, y: 3}
+    - - {x: -150, y: 44}
+      - {x: -152, y: 38}
+      - {x: -152, y: 32}
+      - {x: -148, y: 30}
+      - {x: -140, y: 30}
+      - {x: -136, y: 32}
+      - {x: -136, y: 39}
+      - {x: -138, y: 44}
+    - - {x: -118, y: 44}
+      - {x: -120, y: 38}
+      - {x: -120, y: 32}
+      - {x: -116, y: 30}
+      - {x: -108, y: 30}
+      - {x: -104, y: 32}
+      - {x: -104, y: 39}
+      - {x: -106, y: 44}
+    - - {x: -84, y: 45}
+      - {x: -88, y: 44}
+      - {x: -88, y: 35}
+      - {x: -86, y: 30}
+      - {x: -73, y: 30}
+      - {x: -72, y: 33}
+      - {x: -72, y: 44}
+      - {x: -73, y: 45}
+    - - {x: -54, y: 45}
+      - {x: -56, y: 41}
+      - {x: -56, y: 31}
+      - {x: -53, y: 30}
+      - {x: -41, y: 30}
+      - {x: -40, y: 31}
+      - {x: -40, y: 40}
+      - {x: -42, y: 45}
+    - - {x: -22, y: 45}
+      - {x: -24, y: 41}
+      - {x: -24, y: 31}
+      - {x: -21, y: 30}
+      - {x: -9, y: 30}
+      - {x: -8, y: 31}
+      - {x: -8, y: 40}
+      - {x: -10, y: 45}
+    - - {x: 8, y: 45}
+      - {x: 7, y: 43}
+      - {x: 7, y: 32}
+      - {x: 12, y: 30}
+      - {x: 24, y: 30}
+      - {x: 24, y: 42}
+      - {x: 21, y: 45}
+    - - {x: 47, y: 47}
+      - {x: 38, y: 47}
+      - {x: 38, y: 33}
+      - {x: 44, y: 30}
+      - {x: 55, y: 30}
+      - {x: 56, y: 33}
+      - {x: 56, y: 42}
+      - {x: 52, y: 46}
+    - - {x: 79, y: 49}
+      - {x: 68, y: 49}
+      - {x: 64, y: 47}
+      - {x: 64, y: 36}
+      - {x: 75, y: 30}
+      - {x: 88, y: 30}
+      - {x: 88, y: 38}
+      - {x: 85, y: 46}
+    - - {x: 105, y: 44}
+      - {x: 103, y: 43}
+      - {x: 103, y: 36}
+      - {x: 105, y: 30}
+      - {x: 118, y: 30}
+      - {x: 120, y: 33}
+      - {x: 120, y: 41}
+      - {x: 117, y: 44}
+    - - {x: 138, y: 44}
+      - {x: 136, y: 38}
+      - {x: 136, y: 32}
+      - {x: 140, y: 30}
+      - {x: 148, y: 30}
+      - {x: 152, y: 32}
+      - {x: 152, y: 39}
+      - {x: 150, y: 44}
+    - - {x: 95, y: 45}
+      - {x: 97, y: 42}
+      - {x: 102, y: 42}
+      - {x: 105, y: 44}
+      - {x: 104, y: 47}
+      - {x: 99, y: 48}
+    - - {x: -150, y: 76}
+      - {x: -152, y: 70}
+      - {x: -152, y: 64}
+      - {x: -148, y: 62}
+      - {x: -140, y: 62}
+      - {x: -136, y: 64}
+      - {x: -136, y: 71}
+      - {x: -138, y: 76}
+    - - {x: -116, y: 76}
+      - {x: -120, y: 70}
+      - {x: -120, y: 65}
+      - {x: -117, y: 62}
+      - {x: -105, y: 62}
+      - {x: -104, y: 65}
+      - {x: -104, y: 74}
+      - {x: -109, y: 76}
+    - - {x: 76, y: 74}
+      - {x: 72, y: 70}
+      - {x: 72, y: 65}
+      - {x: 75, y: 62}
+      - {x: 85, y: 62}
+      - {x: 88, y: 65}
+      - {x: 88, y: 70}
+      - {x: 84, y: 74}
+    - - {x: 104, y: 73}
+      - {x: 103, y: 70}
+      - {x: 103, y: 63}
+      - {x: 106, y: 62}
+      - {x: 120, y: 62}
+      - {x: 121, y: 64}
+      - {x: 121, y: 71}
+      - {x: 119, y: 73}
+    - - {x: 141, y: 75}
+      - {x: 136, y: 70}
+      - {x: 136, y: 66}
+      - {x: 140, y: 62}
+      - {x: 148, y: 62}
+      - {x: 152, y: 66}
+      - {x: 152, y: 70}
+      - {x: 147, y: 75}
+    - - {x: 40, y: 67}
+      - {x: 42, y: 63}
+      - {x: 53, y: 63}
+      - {x: 56, y: 64}
+      - {x: 56, y: 72}
+      - {x: 52, y: 78}
+      - {x: 49, y: 78}
+      - {x: 45, y: 77}
+      - {x: 40, y: 74}
+    - - {x: -83, y: 78}
+      - {x: -88, y: 73}
+      - {x: -88, y: 69}
+      - {x: -83, y: 64}
+      - {x: -77, y: 64}
+      - {x: -72, y: 69}
+      - {x: -72, y: 73}
+      - {x: -77, y: 78}
+    - - {x: 11, y: 79}
+      - {x: 9, y: 77}
+      - {x: 8, y: 74}
+      - {x: 8, y: 69}
+      - {x: 13, y: 65}
+      - {x: 19, y: 65}
+      - {x: 24, y: 69}
+      - {x: 24, y: 74}
+      - {x: 23, y: 79}
+    - - {x: -54, y: 80}
+      - {x: -56, y: 76}
+      - {x: -56, y: 68}
+      - {x: -54, y: 67}
+      - {x: -51, y: 66}
+      - {x: -43, y: 66}
+      - {x: -40, y: 69}
+      - {x: -40, y: 79}
+      - {x: -43, y: 80}
+    - - {x: -22, y: 81}
+      - {x: -23, y: 80}
+      - {x: -23, y: 68}
+      - {x: -22, y: 66}
+      - {x: -10, y: 66}
+      - {x: -9, y: 68}
+      - {x: -9, y: 80}
+      - {x: -13, y: 81}
+    - - {x: -150, y: 108}
+      - {x: -152, y: 102}
+      - {x: -152, y: 96}
+      - {x: -148, y: 94}
+      - {x: -140, y: 94}
+      - {x: -136, y: 96}
+      - {x: -136, y: 103}
+      - {x: -138, y: 108}
+    - - {x: -120, y: 102}
+      - {x: -120, y: 96}
+      - {x: -119, y: 94}
+      - {x: -108, y: 94}
+      - {x: -104, y: 95}
+      - {x: -104, y: 105}
+      - {x: -105, y: 107}
+      - {x: -117, y: 107}
+      - {x: -119, y: 105}
+    - - {x: -74, y: 107}
+      - {x: -83, y: 107}
+      - {x: -88, y: 105}
+      - {x: -88, y: 98}
+      - {x: -84, y: 94}
+      - {x: -76, y: 94}
+      - {x: -72, y: 98}
+      - {x: -72, y: 104}
+    - - {x: -42, y: 107}
+      - {x: -51, y: 107}
+      - {x: -56, y: 105}
+      - {x: -56, y: 98}
+      - {x: -52, y: 94}
+      - {x: -44, y: 94}
+      - {x: -40, y: 98}
+      - {x: -40, y: 104}
+    - - {x: -21, y: 107}
+      - {x: -24, y: 105}
+      - {x: -24, y: 98}
+      - {x: -23, y: 94}
+      - {x: -11, y: 94}
+      - {x: -8, y: 96}
+      - {x: -8, y: 104}
+      - {x: -9, y: 107}
+    - - {x: 11, y: 107}
+      - {x: 8, y: 105}
+      - {x: 8, y: 98}
+      - {x: 9, y: 94}
+      - {x: 21, y: 94}
+      - {x: 24, y: 96}
+      - {x: 24, y: 104}
+      - {x: 23, y: 107}
+    - - {x: 43, y: 107}
+      - {x: 40, y: 105}
+      - {x: 40, y: 98}
+      - {x: 41, y: 94}
+      - {x: 53, y: 94}
+      - {x: 56, y: 96}
+      - {x: 56, y: 104}
+      - {x: 55, y: 107}
+    - - {x: 72, y: 103}
+      - {x: 72, y: 97}
+      - {x: 74, y: 94}
+      - {x: 83, y: 94}
+      - {x: 88, y: 96}
+      - {x: 88, y: 103}
+      - {x: 84, y: 107}
+      - {x: 76, y: 107}
+    - - {x: 106, y: 108}
+      - {x: 104, y: 103}
+      - {x: 104, y: 95}
+      - {x: 105, y: 94}
+      - {x: 115, y: 94}
+      - {x: 120, y: 96}
+      - {x: 120, y: 103}
+      - {x: 116, y: 108}
+    - - {x: 141, y: 108}
+      - {x: 136, y: 104}
+      - {x: 136, y: 95}
+      - {x: 138, y: 94}
+      - {x: 152, y: 94}
+      - {x: 152, y: 103}
+      - {x: 150, y: 108}
+    - - {x: -150, y: 140}
+      - {x: -152, y: 134}
+      - {x: -152, y: 128}
+      - {x: -148, y: 126}
+      - {x: -140, y: 126}
+      - {x: -136, y: 128}
+      - {x: -136, y: 135}
+      - {x: -138, y: 140}
+    - - {x: -118, y: 140}
+      - {x: -120, y: 134}
+      - {x: -120, y: 128}
+      - {x: -116, y: 126}
+      - {x: -108, y: 126}
+      - {x: -104, y: 128}
+      - {x: -104, y: 135}
+      - {x: -106, y: 140}
+    - - {x: -82, y: 140}
+      - {x: -88, y: 138}
+      - {x: -88, y: 127}
+      - {x: -87, y: 126}
+      - {x: -74, y: 126}
+      - {x: -72, y: 127}
+      - {x: -72, y: 135}
+      - {x: -75, y: 140}
+    - - {x: -50, y: 140}
+      - {x: -56, y: 138}
+      - {x: -56, y: 127}
+      - {x: -55, y: 126}
+      - {x: -42, y: 126}
+      - {x: -40, y: 127}
+      - {x: -40, y: 135}
+      - {x: -43, y: 140}
+    - - {x: -18, y: 140}
+      - {x: -24, y: 135}
+      - {x: -24, y: 128}
+      - {x: -23, y: 126}
+      - {x: -9, y: 126}
+      - {x: -8, y: 129}
+      - {x: -8, y: 136}
+      - {x: -13, y: 140}
+    - - {x: 10, y: 140}
+      - {x: 8, y: 134}
+      - {x: 8, y: 128}
+      - {x: 12, y: 126}
+      - {x: 20, y: 126}
+      - {x: 24, y: 128}
+      - {x: 24, y: 135}
+      - {x: 22, y: 140}
+    - - {x: 42, y: 140}
+      - {x: 40, y: 134}
+      - {x: 40, y: 128}
+      - {x: 44, y: 126}
+      - {x: 52, y: 126}
+      - {x: 56, y: 128}
+      - {x: 56, y: 135}
+      - {x: 54, y: 140}
+    - - {x: 74, y: 140}
+      - {x: 72, y: 134}
+      - {x: 72, y: 128}
+      - {x: 76, y: 126}
+      - {x: 84, y: 126}
+      - {x: 88, y: 128}
+      - {x: 88, y: 135}
+      - {x: 86, y: 140}
+    - - {x: 106, y: 140}
+      - {x: 104, y: 134}
+      - {x: 104, y: 128}
+      - {x: 108, y: 126}
+      - {x: 116, y: 126}
+      - {x: 120, y: 128}
+      - {x: 120, y: 135}
+      - {x: 118, y: 140}
+    - - {x: 138, y: 140}
+      - {x: 136, y: 134}
+      - {x: 136, y: 128}
+      - {x: 140, y: 126}
+      - {x: 148, y: 126}
+      - {x: 152, y: 128}
+      - {x: 152, y: 135}
+      - {x: 150, y: 140}
+    - - {x: -150, y: 172}
+      - {x: -152, y: 166}
+      - {x: -152, y: 160}
+      - {x: -148, y: 158}
+      - {x: -140, y: 158}
+      - {x: -136, y: 160}
+      - {x: -136, y: 167}
+      - {x: -138, y: 172}
+    - - {x: -118, y: 172}
+      - {x: -120, y: 166}
+      - {x: -120, y: 160}
+      - {x: -116, y: 158}
+      - {x: -108, y: 158}
+      - {x: -104, y: 160}
+      - {x: -104, y: 167}
+      - {x: -106, y: 172}
+    - - {x: -84, y: 172}
+      - {x: -88, y: 169}
+      - {x: -88, y: 161}
+      - {x: -86, y: 158}
+      - {x: -76, y: 158}
+      - {x: -72, y: 160}
+      - {x: -72, y: 166}
+      - {x: -74, y: 172}
+    - - {x: -51, y: 171}
+      - {x: -56, y: 169}
+      - {x: -56, y: 161}
+      - {x: -55, y: 158}
+      - {x: -42, y: 158}
+      - {x: -40, y: 162}
+      - {x: -40, y: 169}
+      - {x: -45, y: 172}
+    - - {x: -22, y: 170}
+      - {x: -24, y: 169}
+      - {x: -24, y: 161}
+      - {x: -23, y: 158}
+      - {x: -10, y: 158}
+      - {x: -8, y: 161}
+      - {x: -8, y: 169}
+      - {x: -10, y: 170}
+    - - {x: 8, y: 169}
+      - {x: 8, y: 159}
+      - {x: 12, y: 158}
+      - {x: 23, y: 158}
+      - {x: 24, y: 159}
+      - {x: 24, y: 166}
+      - {x: 23, y: 169}
+    - - {x: 40, y: 168}
+      - {x: 40, y: 161}
+      - {x: 42, y: 158}
+      - {x: 54, y: 158}
+      - {x: 56, y: 161}
+      - {x: 56, y: 168}
+    - - {x: 73, y: 167}
+      - {x: 72, y: 166}
+      - {x: 72, y: 160}
+      - {x: 73, y: 158}
+      - {x: 85, y: 158}
+      - {x: 88, y: 159}
+      - {x: 88, y: 164}
+      - {x: 87, y: 167}
+    - - {x: 105, y: 166}
+      - {x: 104, y: 162}
+      - {x: 104, y: 159}
+      - {x: 106, y: 158}
+      - {x: 119, y: 158}
+      - {x: 120, y: 160}
+      - {x: 120, y: 164}
+      - {x: 118, y: 166}
+    - - {x: 149, y: 164}
+      - {x: 137, y: 164}
+      - {x: 135, y: 161}
+      - {x: 136, y: 158}
+      - {x: 151, y: 158}
+      - {x: 153, y: 160}
+      - {x: 153, y: 163}
+    - - {x: -149, y: 204}
+      - {x: -152, y: 202}
+      - {x: -152, y: 193}
+      - {x: -150, y: 190}
+      - {x: -137, y: 190}
+      - {x: -136, y: 192}
+      - {x: -136, y: 202}
+      - {x: -141, y: 204}
+    - - {x: -117, y: 204}
+      - {x: -120, y: 202}
+      - {x: -120, y: 193}
+      - {x: -118, y: 190}
+      - {x: -105, y: 190}
+      - {x: -104, y: 192}
+      - {x: -104, y: 202}
+      - {x: -109, y: 204}
+    - - {x: -85, y: 205}
+      - {x: -88, y: 201}
+      - {x: -88, y: 195}
+      - {x: -86, y: 190}
+      - {x: -75, y: 190}
+      - {x: -72, y: 194}
+      - {x: -72, y: 202}
+      - {x: -76, y: 205}
+    - - {x: -53, y: 205}
+      - {x: -56, y: 203}
+      - {x: -56, y: 193}
+      - {x: -55, y: 190}
+      - {x: -41, y: 190}
+      - {x: -40, y: 192}
+      - {x: -40, y: 203}
+      - {x: -45, y: 205}
+    - - {x: -22, y: 205}
+      - {x: -24, y: 201}
+      - {x: -24, y: 191}
+      - {x: -21, y: 190}
+      - {x: -9, y: 190}
+      - {x: -8, y: 191}
+      - {x: -8, y: 200}
+      - {x: -10, y: 205}
+    - - {x: 7, y: 205}
+      - {x: 7, y: 192}
+      - {x: 12, y: 190}
+      - {x: 23, y: 190}
+      - {x: 24, y: 192}
+      - {x: 24, y: 202}
+      - {x: 21, y: 205}
+    - - {x: 47, y: 207}
+      - {x: 38, y: 207}
+      - {x: 38, y: 193}
+      - {x: 44, y: 190}
+      - {x: 55, y: 190}
+      - {x: 56, y: 193}
+      - {x: 56, y: 202}
+      - {x: 52, y: 206}
+    - - {x: 79, y: 209}
+      - {x: 68, y: 209}
+      - {x: 64, y: 207}
+      - {x: 64, y: 196}
+      - {x: 75, y: 190}
+      - {x: 88, y: 190}
+      - {x: 88, y: 198}
+      - {x: 85, y: 206}
+    - - {x: 106, y: 204}
+      - {x: 103, y: 201}
+      - {x: 103, y: 191}
+      - {x: 107, y: 190}
+      - {x: 120, y: 190}
+      - {x: 120, y: 198}
+      - {x: 118, y: 204}
+    - - {x: 142, y: 204}
+      - {x: 136, y: 199}
+      - {x: 136, y: 194}
+      - {x: 140, y: 190}
+      - {x: 148, y: 190}
+      - {x: 152, y: 194}
+      - {x: 152, y: 198}
+      - {x: 148, y: 204}
+    - - {x: 95, y: 205}
+      - {x: 97, y: 202}
+      - {x: 102, y: 202}
+      - {x: 105, y: 204}
+      - {x: 104, y: 207}
+      - {x: 99, y: 208}
+    - - {x: -149, y: 236}
+      - {x: -152, y: 234}
+      - {x: -152, y: 225}
+      - {x: -150, y: 222}
+      - {x: -137, y: 222}
+      - {x: -136, y: 224}
+      - {x: -136, y: 234}
+      - {x: -141, y: 236}
+    - - {x: -113, y: 236}
+      - {x: -120, y: 233}
+      - {x: -120, y: 223}
+      - {x: -117, y: 222}
+      - {x: -104, y: 222}
+      - {x: -104, y: 233}
+      - {x: -106, y: 236}
+    - - {x: 73, y: 234}
+      - {x: 72, y: 233}
+      - {x: 72, y: 224}
+      - {x: 73, y: 222}
+      - {x: 87, y: 222}
+      - {x: 88, y: 223}
+      - {x: 88, y: 233}
+      - {x: 85, y: 234}
+    - - {x: 105, y: 233}
+      - {x: 103, y: 231}
+      - {x: 103, y: 225}
+      - {x: 104, y: 222}
+      - {x: 120, y: 222}
+      - {x: 121, y: 223}
+      - {x: 121, y: 232}
+      - {x: 117, y: 233}
+    - - {x: 141, y: 235}
+      - {x: 136, y: 230}
+      - {x: 136, y: 226}
+      - {x: 140, y: 222}
+      - {x: 148, y: 222}
+      - {x: 152, y: 226}
+      - {x: 152, y: 230}
+      - {x: 147, y: 235}
+    - - {x: 40, y: 224}
+      - {x: 41, y: 223}
+      - {x: 53, y: 223}
+      - {x: 56, y: 224}
+      - {x: 56, y: 232}
+      - {x: 52, y: 238}
+      - {x: 43, y: 238}
+      - {x: 40, y: 232}
+    - - {x: -83, y: 238}
+      - {x: -88, y: 233}
+      - {x: -88, y: 229}
+      - {x: -83, y: 224}
+      - {x: -77, y: 224}
+      - {x: -72, y: 229}
+      - {x: -72, y: 233}
+      - {x: -77, y: 238}
+    - - {x: 10, y: 239}
+      - {x: 8, y: 237}
+      - {x: 8, y: 230}
+      - {x: 11, y: 225}
+      - {x: 19, y: 225}
+      - {x: 24, y: 228}
+      - {x: 24, y: 234}
+      - {x: 23, y: 239}
+    - - {x: -54, y: 240}
+      - {x: -56, y: 236}
+      - {x: -56, y: 228}
+      - {x: -54, y: 226}
+      - {x: -40, y: 226}
+      - {x: -40, y: 239}
+      - {x: -43, y: 240}
+    - - {x: -22, y: 241}
+      - {x: -23, y: 237}
+      - {x: -23, y: 227}
+      - {x: -20, y: 226}
+      - {x: -10, y: 226}
+      - {x: -9, y: 230}
+      - {x: -9, y: 240}
+      - {x: -12, y: 241}
+    - - {x: -149, y: 268}
+      - {x: -152, y: 266}
+      - {x: -152, y: 257}
+      - {x: -150, y: 254}
+      - {x: -137, y: 254}
+      - {x: -136, y: 256}
+      - {x: -136, y: 266}
+      - {x: -141, y: 268}
+    - - {x: -117, y: 267}
+      - {x: -119, y: 265}
+      - {x: -120, y: 262}
+      - {x: -120, y: 257}
+      - {x: -116, y: 254}
+      - {x: -106, y: 254}
+      - {x: -104, y: 257}
+      - {x: -104, y: 265}
+      - {x: -106, y: 267}
+    - - {x: -74, y: 267}
+      - {x: -83, y: 267}
+      - {x: -88, y: 265}
+      - {x: -88, y: 258}
+      - {x: -84, y: 254}
+      - {x: -76, y: 254}
+      - {x: -72, y: 258}
+      - {x: -72, y: 264}
+    - - {x: -42, y: 267}
+      - {x: -51, y: 267}
+      - {x: -56, y: 265}
+      - {x: -56, y: 258}
+      - {x: -52, y: 254}
+      - {x: -44, y: 254}
+      - {x: -40, y: 258}
+      - {x: -40, y: 264}
+    - - {x: -19, y: 267}
+      - {x: -24, y: 265}
+      - {x: -24, y: 257}
+      - {x: -22, y: 254}
+      - {x: -13, y: 254}
+      - {x: -8, y: 256}
+      - {x: -8, y: 264}
+      - {x: -10, y: 267}
+    - - {x: 13, y: 267}
+      - {x: 8, y: 265}
+      - {x: 8, y: 257}
+      - {x: 10, y: 254}
+      - {x: 19, y: 254}
+      - {x: 24, y: 256}
+      - {x: 24, y: 264}
+      - {x: 22, y: 267}
+    - - {x: 45, y: 267}
+      - {x: 40, y: 265}
+      - {x: 40, y: 257}
+      - {x: 42, y: 254}
+      - {x: 51, y: 254}
+      - {x: 56, y: 256}
+      - {x: 56, y: 264}
+      - {x: 54, y: 267}
+    - - {x: 76, y: 267}
+      - {x: 72, y: 263}
+      - {x: 72, y: 257}
+      - {x: 76, y: 254}
+      - {x: 83, y: 254}
+      - {x: 88, y: 258}
+      - {x: 88, y: 263}
+      - {x: 84, y: 267}
+    - - {x: 104, y: 263}
+      - {x: 104, y: 257}
+      - {x: 106, y: 254}
+      - {x: 115, y: 254}
+      - {x: 120, y: 256}
+      - {x: 120, y: 263}
+      - {x: 116, y: 268}
+      - {x: 107, y: 268}
+    - - {x: 136, y: 257}
+      - {x: 139, y: 254}
+      - {x: 147, y: 254}
+      - {x: 152, y: 255}
+      - {x: 152, y: 264}
+      - {x: 151, y: 268}
+      - {x: 141, y: 268}
+      - {x: 136, y: 264}
+    - - {x: -149, y: 300}
+      - {x: -152, y: 298}
+      - {x: -152, y: 289}
+      - {x: -150, y: 286}
+      - {x: -137, y: 286}
+      - {x: -136, y: 288}
+      - {x: -136, y: 298}
+      - {x: -141, y: 300}
+    - - {x: -117, y: 300}
+      - {x: -120, y: 298}
+      - {x: -120, y: 289}
+      - {x: -118, y: 286}
+      - {x: -105, y: 286}
+      - {x: -104, y: 288}
+      - {x: -104, y: 298}
+      - {x: -109, y: 300}
+    - - {x: -82, y: 300}
+      - {x: -88, y: 298}
+      - {x: -88, y: 287}
+      - {x: -87, y: 286}
+      - {x: -74, y: 286}
+      - {x: -72, y: 287}
+      - {x: -72, y: 295}
+      - {x: -75, y: 300}
+    - - {x: -50, y: 300}
+      - {x: -56, y: 298}
+      - {x: -56, y: 287}
+      - {x: -55, y: 286}
+      - {x: -42, y: 286}
+      - {x: -40, y: 287}
+      - {x: -40, y: 295}
+      - {x: -43, y: 300}
+    - - {x: -20, y: 300}
+      - {x: -24, y: 296}
+      - {x: -24, y: 287}
+      - {x: -23, y: 286}
+      - {x: -10, y: 286}
+      - {x: -8, y: 287}
+      - {x: -8, y: 297}
+      - {x: -12, y: 300}
+    - - {x: 12, y: 300}
+      - {x: 8, y: 297}
+      - {x: 8, y: 289}
+      - {x: 10, y: 286}
+      - {x: 20, y: 286}
+      - {x: 24, y: 288}
+      - {x: 24, y: 294}
+      - {x: 22, y: 300}
+    - - {x: 44, y: 300}
+      - {x: 40, y: 297}
+      - {x: 40, y: 289}
+      - {x: 42, y: 286}
+      - {x: 52, y: 286}
+      - {x: 56, y: 288}
+      - {x: 56, y: 294}
+      - {x: 54, y: 300}
+    - - {x: 76, y: 300}
+      - {x: 72, y: 297}
+      - {x: 72, y: 289}
+      - {x: 74, y: 286}
+      - {x: 84, y: 286}
+      - {x: 88, y: 288}
+      - {x: 88, y: 294}
+      - {x: 86, y: 300}
+    - - {x: 116, y: 300}
+      - {x: 106, y: 300}
+      - {x: 104, y: 298}
+      - {x: 104, y: 290}
+      - {x: 106, y: 286}
+      - {x: 116, y: 286}
+      - {x: 120, y: 290}
+      - {x: 120, y: 297}
+    - - {x: 148, y: 300}
+      - {x: 138, y: 300}
+      - {x: 136, y: 298}
+      - {x: 136, y: 290}
+      - {x: 138, y: 286}
+      - {x: 148, y: 286}
+      - {x: 152, y: 290}
+      - {x: 152, y: 297}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
